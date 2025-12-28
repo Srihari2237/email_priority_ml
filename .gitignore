@@ -1,0 +1,9 @@
+# Trained ML models
+model/*.pkl
+
+# Runtime feedback data
+data/feedback.csv
+
+# Python cache
+__pycache__/
+*.pyc
